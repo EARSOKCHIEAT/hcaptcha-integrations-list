@@ -1,4 +1,4 @@
-# hCaptcha integrations list
+a986d647df9f0eee0037adab708465c27880d3c5 hCaptcha integrations list
 A collection of all known integration packages for hCaptcha.
 
 **This is a community-maintained list.** Added or found another one? Open a PR to submit it!
