@@ -1,4 +1,4 @@
-# hCaptcha integrations list
+ # hCaptcha integrations list
 A collection of all known integration packages for hCaptcha.
 
 **This is a community-maintained list.** Added or found another one? Open a PR to submit it!
@@ -19,7 +19,7 @@ Instructions: run `npm install`, edit README.md, then run `./upd_toc.sh` to re-c
     + [Preact](#reactjs)
     + [ReactJS](#reactjs)
     + [Vanilla JS (use with Angular, Vue, etc)](#vanilla-js-use-with-angular-vue-etc)
-    + [Vue JS](#vue-js)
+    + [Vue JS](#vue-js)A
     + [SolidJS](#solidjs)
 - [Backend](#backend)
   * [AdonisJS middleware](#adonisjs-middleware)
